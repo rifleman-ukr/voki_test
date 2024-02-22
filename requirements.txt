@@ -1,0 +1,5 @@
+pytest
+Appium-Python-Client
+opencv-python
+numpy
+pybase64
